@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      使用WSL进行Linux开发Set up总结
+subtitle:   
+date:       2022-04-07
+author:     KX
+header-img: img/post-bg-ios9-web.jpg
+catalog: 	 true
+tags:
+    - WSL
+    - Tools
+---
 # 使用WSL进行Linux开发Set up总结
 
 准备：windows： win10 2014以上版本
